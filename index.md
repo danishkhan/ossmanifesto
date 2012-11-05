@@ -32,4 +32,4 @@ The Developer Manifesto is authored by [Danish Khan](http://danishkhan.org).
 If you want to leave feedback please [open an issue on GitHub](https://github.com/danishkhan/devmanifesto/issues).
 
 ### License
-Creative Commons - CC BY 3.0 http://creativecommons.org/licenses/by/3.0/
+[Creative Commons - CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
