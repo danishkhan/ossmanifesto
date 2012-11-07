@@ -3,7 +3,7 @@ layout: default
 title: OSS Manifesto
 ---
 
-We are developers/designers/people who want to support and sustain open source software.
+We are people who want to support and sustain open source software.
 
 We value:
 
