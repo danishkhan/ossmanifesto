@@ -13,12 +13,12 @@ We value:
 
 We believe that all projects should:
 
-* Have a README file
-* Have a Contributing file
-* List all core team members in the README file
-* Have a License file
-* Have a Changelog
-* Follow Semantic Versioning
+* Have a readme file
+* Have a contributing file
+* List all core team members in the readme file
+* Have a license file
+* Have a changelog
+* Follow semantic versioning
 * Tag all major releases
 * Provide documentation
 
