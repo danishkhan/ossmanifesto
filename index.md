@@ -22,10 +22,10 @@ We believe that all projects should:
 * Tag all major releases
 * Provide documentation
 
-### Projects & People that follow the manifesto
-[Projects](http://danishkhan.org/ossmanifesto/projects)
+### People that follow the manifesto
+(https://secure.gravatar.com/avatar/e8a84c62048ccb7ee08d4fdeb6417533?=42)&nbsp;![]
 
-[People](http://danishkhan.org/ossmanifesto/people)
+### Projects that follow the manifesto
 
 ### About
 The Open Source Software Manifesto is authored by [Danish Khan](http://danishkhan.org).
