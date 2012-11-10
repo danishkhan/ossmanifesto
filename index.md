@@ -25,6 +25,7 @@ We believe that all projects should:
 ### People that follow the manifesto
 ![](https://secure.gravatar.com/avatar/e8a84c62048ccb7ee08d4fdeb6417533?=42)&nbsp;
 [![](https://secure.gravatar.com/avatar/7f81fd5c7792dabca22c433abbfbf0cb?=42)&nbsp;](https://github.com/danishkhan)
+[![](https://secure.gravatar.com/avatar/e8a84c62048ccb7ee08d4fdeb6417533?=42)&nbsp;](https://github.com/nesquena)
 
 ### Projects that follow the manifesto
 [RABL](https://github.com/nesquena/rabl)
