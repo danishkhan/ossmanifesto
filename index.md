@@ -23,7 +23,7 @@ We believe that all projects should:
 * Provide documentation
 
 ### People that follow the manifesto
-(https://secure.gravatar.com/avatar/e8a84c62048ccb7ee08d4fdeb6417533?=42)&nbsp;![]
+![](https://secure.gravatar.com/avatar/e8a84c62048ccb7ee08d4fdeb6417533?=42)&nbsp;
 
 ### Projects that follow the manifesto
 
