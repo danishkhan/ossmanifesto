@@ -26,6 +26,7 @@ We believe that all projects should:
 ![](https://secure.gravatar.com/avatar/e8a84c62048ccb7ee08d4fdeb6417533?=42)&nbsp;
 
 ### Projects that follow the manifesto
+[RABL](https://github.com/nesquena/rabl)
 
 ### About
 The Open Source Software Manifesto is authored by [Danish Khan](http://danishkhan.org).
