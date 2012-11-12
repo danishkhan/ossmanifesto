@@ -29,6 +29,11 @@ We believe that all projects should:
 ### Projects that follow the manifesto
 [RABL](https://github.com/nesquena/rabl)
 
+### Want to participate
+* Download the essential files
+* Add a link to the OSS Manifesto site in your README file
+* Send a pull request to add yourself and your project(s) to the OSS Manifesto site
+
 ### About
 The Open Source Software Manifesto is authored by [Danish Khan](http://danishkhan.org).
 
