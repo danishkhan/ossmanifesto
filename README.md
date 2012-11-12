@@ -11,4 +11,4 @@ Open an [issue](https://github.com/danishkhan/ossmanifesto/issues)
 
 [Creative Commons - CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
-Project is a member of the [OSS Manifesto](http://ossmanifesto.com/).
+Project is a member of the [OSS Manifesto](http://ossmanifesto.org/).
