@@ -26,4 +26,4 @@ Feel free to chat with the __PROJECT__ core team (and many other users) on IRC i
 
 Copyright © __YEAR__ __NAME__. See [LICENSE]() for details.
 
-Project is a member of the [OSS Manifesto](http://ossmanifesto.com/).
+Project is a member of the [OSS Manifesto](http://ossmanifesto.org/).
