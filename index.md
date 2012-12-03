@@ -29,9 +29,9 @@ We believe that all projects should:
 [![](https://secure.gravatar.com/avatar/ea65515f1891fc76f23b1f1e879de19c?)](https://github.com/kossnocorp)
 
 ### Projects that follow the manifesto
-[RABL](https://github.com/nesquena/rabl)
-[HTML::Pipeline](https://github.com/jch/html-pipeline)
-[jquery.turbolinks](https://github.com/kossnocorp/jquery.turbolinks)
+* [RABL](https://github.com/nesquena/rabl)
+* [HTML::Pipeline](https://github.com/jch/html-pipeline)
+* [jquery.turbolinks](https://github.com/kossnocorp/jquery.turbolinks)
 
 ### Want to participate
 * Download the essential files
