@@ -27,11 +27,13 @@ We believe that all projects should:
 [![](https://secure.gravatar.com/avatar/e8a84c62048ccb7ee08d4fdeb6417533?)](https://github.com/nesquena)
 [![](https://secure.gravatar.com/avatar/acd4b5803e806bf0ed70299f15cd6d18?)](https://github.com/jch)
 [![](https://secure.gravatar.com/avatar/ea65515f1891fc76f23b1f1e879de19c?)](https://github.com/kossnocorp)
+[![](https://secure.gravatar.com/avatar/871c4ba6d25169779cee977e04b2f0c3?)](https://github.com/saberma)
 
 ### Projects that follow the manifesto
 * [RABL](https://github.com/nesquena/rabl)
 * [HTML::Pipeline](https://github.com/jch/html-pipeline)
 * [jquery.turbolinks](https://github.com/kossnocorp/jquery.turbolinks)
+* [19wu](https://github.com/saberma/19wu)
 
 ### Want to participate
 * Download the essential files
