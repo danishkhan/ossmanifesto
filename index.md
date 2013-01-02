@@ -34,6 +34,7 @@ We believe that all projects should:
 * [HTML::Pipeline](https://github.com/jch/html-pipeline)
 * [jquery.turbolinks](https://github.com/kossnocorp/jquery.turbolinks)
 * [19wu](https://github.com/saberma/19wu)
+* [Flask-Twip](https://github.com/twip/flask_twip)
 
 ### Want to participate
 * Download the essential files
