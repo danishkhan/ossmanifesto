@@ -30,6 +30,7 @@ We believe that all projects should:
 [![](https://secure.gravatar.com/avatar/871c4ba6d25169779cee977e04b2f0c3?)](https://github.com/saberma)
 [![](https://secure.gravatar.com/avatar/0ece37c89dd653d0fb9ae2bbf4c362ee?)](https://github.com/imcj)
 [![](https://secure.gravatar.com/avatar/1ee211172ad7e550d0f83987c842dbe0?)](https://github.com/hychen)
+[![](https://secure.gravatar.com/avatar/433967a57ccd76de553af35e01821959?)](https://github.com/ichord)
 
 ### Projects that follow the manifesto
 * [RABL](https://github.com/nesquena/rabl)
@@ -39,6 +40,7 @@ We believe that all projects should:
 * [Flask-Twip](https://github.com/twip/flask_twip)
 * [libstorages](https://github.com/imcj/libstorages)
 * [BoLiau](https://github.com/hychen/boliau)
+* [At.js](https://github.com/ichord/At.js)
 
 ### Want to participate
 * Download the essential files
