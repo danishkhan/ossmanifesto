@@ -41,6 +41,7 @@ We believe that all projects should:
 * [libstorages](https://github.com/imcj/libstorages)
 * [BoLiau](https://github.com/hychen/boliau)
 * [At.js](https://github.com/ichord/At.js)
+* [NicEdit](https://github.com/danishkhan/NicEdit)
 
 ### Want to participate
 * Download the essential files
