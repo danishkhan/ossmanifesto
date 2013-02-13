@@ -2,7 +2,7 @@
 
 The manifesto to help developers help each other. 
 
-### If you have opinions of want to help
+### If you have opinions or want to help
 
 Open an [issue](https://github.com/danishkhan/ossmanifesto/issues)
 
