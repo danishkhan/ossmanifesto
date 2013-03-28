@@ -36,7 +36,7 @@ We believe that all projects should:
 ### Projects that follow the manifesto
 * [RABL](https://github.com/nesquena/rabl)
 * [HTML::Pipeline](https://github.com/jch/html-pipeline)
-* [jquery.turbolinks](https://github.com/kossnocorp/jquery.turbolinks)
+* [jQuery Turbolinks](https://github.com/kossnocorp/jquery.turbolinks)
 * [19wu](https://github.com/saberma/19wu)
 * [Flask-Twip](https://github.com/twip/flask_twip)
 * [libstorages](https://github.com/imcj/libstorages)
@@ -44,6 +44,7 @@ We believe that all projects should:
 * [At.js](https://github.com/ichord/At.js)
 * [NicEdit](https://github.com/danishkhan/NicEdit)
 * [HTTP Monkey](https://github.com/rogerleite/http_monkey)
+* [Atlas.js](https://github.com/kossnocorp/atlas)
 
 ### Want to participate
 * Download the essential files
